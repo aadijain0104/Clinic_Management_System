@@ -1,0 +1,11 @@
+<html>
+<head>
+<title>Appointment</title>
+<link href="css/s.css" type="text/css" rel="stylesheet">
+</head>
+<body>
+<div class="box">
+Appointment Booked
+</div>
+</body>
+</html>
